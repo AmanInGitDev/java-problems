@@ -1,0 +1,7 @@
+content:
+  - Theory
+  - Overview the hierarchy
+  - Subclasses of Exception
+  - Overview the hierarchy (1)
+  - BadRequestException
+  - Base class

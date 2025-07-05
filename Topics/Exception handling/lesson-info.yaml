@@ -1,0 +1,9 @@
+content:
+  - Theory
+  - Taming the file-reading tightrope act
+  - Resolving the 'Divide by Zero' error in an application
+  - Catching some exceptions
+  - String to double conversion
+  - What exceptions can be handled
+  - What does the code print
+  - Catch all exceptions

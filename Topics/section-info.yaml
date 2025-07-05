@@ -1,0 +1,30 @@
+content:
+  - Reading user's input with Scanner
+  - Integer types and operations
+  - Increment and decrement
+  - Floating-point types
+  - Boolean type and operations. True and false
+  - Comparing values. Relational operators
+  - Conditional statement
+  - For loop
+  - While and do-while loops
+  - Declaring methods
+  - Multiple conditions  switch
+  - Overloading
+  - Primitive and reference types
+  - Array
+  - Arrays as parameters
+  - Iterating over arrays
+  - Characters
+  - String
+  - NullPointerException
+  - Defining classes
+  - Getters and setters
+  - Multiple constructors
+  - Keyword  super
+  - Functional decomposition
+  - Hierarchy of exceptions
+  - Exception handling
+  - Objects and their properties
+  - ArrayList
+  - The List interface
