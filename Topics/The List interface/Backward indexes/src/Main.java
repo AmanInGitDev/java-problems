@@ -12,8 +12,7 @@ public class Main {
         
         return lst.get(realIndex);
     }
-
-    /* Do not change code below */
+    
     public static void main(String[] args) {
 
         final Scanner scanner = new Scanner(System.in);
